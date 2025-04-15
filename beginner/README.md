@@ -2,7 +2,7 @@
 
 ## Grammar 30 minutes
 
-- [Essential Gramar In Use](./essential_grammar_in_use.pdf)
+- Essential Gramar In Use
 - [BBC 6 minutes grammar](https://www.youtube.com/watch?v=X6LuWwb9whM&list=PLcetZ6gSk96_zHuVg6Ecy2F7j4Aq4valQ)
 
 > **Recommendation**: Don't focus on the academic part of grammar, but rather on the logical construction of simple sentences. Learn the basic but essential rules with the book Essential Grammar In Use.
@@ -11,7 +11,7 @@
 
 - Learn with context
 - Try to learn 10 - 20 words per day
-- [Objective Key](./objective_key.pdf)
+- Objective Key
 
 > **Recommendation**: Don't learn vocabulary without understanding it, learn it in context. Create flashcards of each word, and use the Objective Key workbook to know which words are important.
 
